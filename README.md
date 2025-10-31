@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- PROFILE README FOR ASHISH KUMAR -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1592025&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1592025" /> </p>
+<h1 align="center">👋 Hi, I'm Ashish Kumar</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish1592025" alt="ashish1592025" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 👨‍💻 All of my projects are available at [https://mern-portfolio-ashish.vercel.app/](https://mern-portfolio-ashish.vercel.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **gargashish734@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumar_ashi76879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumar_ashi76879" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashishkumar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishkumar6" height="30" width="40" /></a>
+<p align="center">
+  🚀 <strong>Full Stack Developer</strong> | 💻 <strong>MERN Stack Enthusiast</strong> | 🌐 <strong>Building Interactive Web Experiences</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ashishkumar6"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Ashish1592025"><img src="https://img.shields.io/badge/GitHub-Ashish1592025-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:gargashish734@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://mern-portfolio-ashish.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=vercel" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish1592025&show_icons=true&locale=en&layout=compact" alt="ashish1592025" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish1592025&show_icons=true&locale=en" alt="ashish1592025" /></p>
+## 🧠 About Me  
+
+- 💼 Full Stack Developer skilled in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**  
+- 🌱 Passionate about crafting **scalable, performant, and user-friendly web apps**  
+- 💬 I love to solve real-world problems with clean and efficient code  
+- 🚀 Currently building modern web applications with the **MERN Stack**  
+- ⚙️ Always learning new tech — recently exploring **TypeScript** and **FastAPI**  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,vercel" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashish1592025&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish1592025&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1592025&theme=react-dark" />
+</p>
+
+---
+
+## 💻 Featured Projects  
+
+### 🛒 [E-Commerce Web App](https://github.com/Ashish1592025)
+A responsive e-commerce app built with **ReactJS**, **Context API**, and **React Router**.  
+- 🛍️ Dynamic product listings  
+- 🧩 Add to Cart / Remove from Cart features  
+- ⚡ Optimized performance and component scalability  
+
+### 🎟️ [Movie Ticket Booking Platform](https://github.com/Ashish1592025)
+Full-stack project using **React**, **Node.js**, **MongoDB**, and **Express**.  
+- 🎬 Real-time seat selection  
+- 💳 Secure checkout and API integration  
+- 🌐 Deployed on **Vercel**  
+
+### 🌦️ [Weather Forecast App](https://github.com/Ashish1592025)
+A responsive app using **ReactJS** and **OpenWeatherMap API** for real-time forecasts.  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashishkumar6"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/Ashish1592025"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
+  <a href="mailto:gargashish734@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://mern-portfolio-ashish.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
